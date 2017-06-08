@@ -2,7 +2,7 @@
 	"name" : "GPUDrawing",
 	"version" : 1,
 	"creationdate" : -716212005,
-	"modificationdate" : -716194762,
+	"modificationdate" : -715165215,
 	"viewrect" : [ 25.0, 69.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -11,6 +11,16 @@
 	"contents" : 	{
 		"patchers" : 		{
 			"main.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"whiteNoise.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"oscReceiver.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
